@@ -1,0 +1,50 @@
+.menu h1{
+    color: var(--primary);
+}
+.cadeaux{
+    display: block;
+    float: left;
+    margin-top: 2%;
+    margin-left: -30%;
+    background-image: url(../Img/Vector\ 2.png);
+    background-size: cover;
+    background-position: top;
+}
+.cadeaux img{
+    width: 5%;
+    margin-bottom: -3%;
+    margin-left: 35%;
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+    color: var(--secondary);
+}
+.cadeaux h2 hr{
+    margin-left: 35%;
+    border: none;
+    height: 2px;
+    width: 400px;
+    padding: 1px;
+    background-color: var(--secondary);
+}
+.banner{
+    justify-content: center;
+}
+.banner img{
+    width: 60%;
+}
+.banner  button{
+    padding-left:5% ;
+    padding-top: 1%;
+    padding-bottom:1% ;
+    padding-right:5% ;
+    margin-top: 6%;
+    margin-left: 60%;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    background-color: var(--secondary);
+}
